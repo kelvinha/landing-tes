@@ -1,0 +1,8 @@
+@media only screen and (max-width: 1024px) {
+
+    .btn-primary,
+    .btn-outline-primary {
+        margin-top: 10px !important;
+        margin-left: 0px !important;
+    }
+}
